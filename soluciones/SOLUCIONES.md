@@ -9,9 +9,9 @@ Para descargar los ejercicios, tenemos 2 opciones:
 - Usar las funcionalidades de Git para clonar el repositorio y actualizar posteriormente los archivos cada sesión.
 - En Google Colab, busca el archivo en el repositorio y guarda una copia en tu Drive (preferiblemente) o en un repositorio de tu propiedad, **nunca en el repositorio original del curso**.
 - Acceder a los archivos a través de la web de GitHub y descargarlos manualmente:
-  - Accede a la versión raw del archivo
-  - Click con botón derecho y "Descargar como"
-  - En local, cambia su extensión a la adecuada, p. ej. ".ipynb"
+  - Accede a la versión raw del archivo.
+  - Click con botón derecho y "Descargar como".
+  - En local, cambia su extensión a la adecuada, p. ej. ".ipynb".
   
 Si tienes bastante manejo y soltura con Git, puedes utilizar la primera opción, pero cuidado, puesto que Git es complejo en ocasiones.
 
@@ -33,7 +33,7 @@ Es importante copiar los archivos al directorio "soluciones" ya que así, si hac
 Por limitaciones temporales en el uso del respositorio remoto, les daremos a los alumnos un amplio acceso al mismo, lo cual lleva aparejado la posibilidad de que tengan permisos de modificación del mismo. Si lo modificaran por error, le producirían serios inconvenientes al resto de alumnos hasta que lo corrigiéramos, por lo cual pedimos **extremar las precauciones** con nuestras operaciones.
 
 ## Enviar los ejercicios
-Para enviar los ejercicios, simplemente los subiremos desde local a la plataforma del curso, individualmente, en la unidad
+Para enviar los ejercicios, simplemente los subiremos desde local a la plataforma del curso en la unidad correspondiente. Podemos subirlos individualmente o en un archivo comprimido.
 
 ## En resumen
 - Si usas Colab, no trabajarás con un repositorio local, sino guardando tu trabajo en tu Google Drive o en un repositorio remoto de GitHub de tu propiedad.
